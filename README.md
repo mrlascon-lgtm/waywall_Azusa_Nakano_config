@@ -3,7 +3,7 @@ READ ORIGINAL README.MD https://github.com/arjuncgore/waywall_generic_config
 ## Demo Images:
 <img width="1600" height="900" alt="image" src="https://github.com/mrlascon-lgtm/waywall_Azusa_Nakano_config/blob/main/screenshots/tall.png?raw=true" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/mrlascon-lgtm/waywall_Azusa_Nakano_config/blob/main/screenshots/tall.png?raw=true" />
+<img width="1600" height="900" alt="image" src="https://github.com/mrlascon-lgtm/waywall_Azusa_Nakano_config/blob/main/screenshots/thin.png?raw=true" />
 
 <img width="1600" height="900" alt="image" src="https://github.com/mrlascon-lgtm/waywall_Azusa_Nakano_config/blob/main/screenshots/wide.png?raw=true" />
 

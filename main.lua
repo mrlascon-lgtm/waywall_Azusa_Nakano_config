@@ -1,3 +1,4 @@
+-- DONT EDIT THIS IF YOU DONT KNOW WHAT YOU ARE DOING
 -- ==== WAYWALL ====
 local waywall = require("waywall")
 local helpers = require("waywall.helpers")

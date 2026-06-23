@@ -1,4 +1,4 @@
-#THIS IS FORK
+# THIS IS FORK
 READ ORIGINAL README.MD https://github.com/arjuncgore/waywall_generic_config
 
 ## Demo Images:

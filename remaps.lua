@@ -1,7 +1,7 @@
 return {
     remapped_kb = {
         -- Add any playing remaps here
-        ["R"] = "F3", -- example, remaps the P key to act as the F3 key
+        ["R"] = "F3", -- example, remaps the R key to act as the F3 key
 
     },
 

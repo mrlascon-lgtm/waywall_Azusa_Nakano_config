@@ -49,7 +49,7 @@ local cfg = {
     -- resolution changes
     thin = { key = "*-Alt_L", f3_safe = false, ingame_only = false },
     wide = { key = "*-B", f3_safe = true, ingame_only = false },
-    tall = { key = "*-G", f3_safe = false, ingame_only = false },
+    tall = { key = "*-6", f3_safe = false, ingame_only = false },
 
     -- startup actions
     launch_paceman_key = "Shift-P",

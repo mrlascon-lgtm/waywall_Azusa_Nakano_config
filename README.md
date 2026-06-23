@@ -19,8 +19,8 @@ git clone https://github.com/mrlascon-lgtm/waywall_Azusa_Nakano_config.git ~/.co
 This clones this repository directly to your waywall config folder
 
 ## Binds:
-#LALT - thin
-#B - wide
-#6 - tall
+### LALT - thin
+### B - wide
+### 6 - tall
 ## Credits:
 Huge thanks to https://github.com/arjuncgore/waywall_generic_config

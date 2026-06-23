@@ -4,7 +4,7 @@ local main = require("main")
 local remaps = require("remaps")
 
 local cfg = {
-    debug_text = false,
+    debug_text = true,
 
     -- ==== LOOKS ====
     resolution = { 2560, 1440 },
@@ -21,7 +21,7 @@ local cfg = {
         x = 0,
         y = 0,               -- offset
     },
-    ninbot_opacity = 0.75,        -- 1 to 1
+    ninbot_opacity = 1,        -- 1 to 1
 
 
     -- ==== ALTERNATIVE RESOLUTIONS ====
@@ -71,8 +71,8 @@ local cfg = {
 
 
     -- ==== MISC ====
-    sens_change = { enabled = true, normal = 12.8000006, tall = 0.86348038, raw_input = false }, -- setting raw_input to true will enable sens changing via maccel
-    enable_resize_animations = true,
+    sens_change = { enabled = false, normal = 12.8000006, tall = 0.86348038, raw_input = false }, -- setting raw_input to true will enable sens changing via maccel
+    enable_resize_animations = false,
 
 }
 
